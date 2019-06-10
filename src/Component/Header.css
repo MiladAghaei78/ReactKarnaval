@@ -1,0 +1,38 @@
+header{
+    background-color: #ffc107;
+    height: 50px;
+    width: 100%;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    box-sizing: inherit;
+    direction: rtl;
+    font-family: IranSansWeb,'Segoe UI',Tahoma, sans-serif;
+}
+
+.banner-button{
+    color: rgba(0, 0, 0, 0.54);
+    padding: 2px 8px;
+    min-height: 0;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: #fff;
+    overflow: hidden;
+    font-size: 0.75rem;
+    min-width: 64px;
+    box-sizing: inherit;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    line-height: 1.75;
+    font-weight: 500;
+    text-transform: uppercase;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: IranSansWeb,'Segoe UI',Tahoma, sans-serif;
+}

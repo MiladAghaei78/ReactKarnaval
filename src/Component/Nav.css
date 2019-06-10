@@ -1,0 +1,133 @@
+.login-button{
+    color: #35b995 !important;
+    position: relative;
+    top: 3px;
+    left: 3px;
+    transition: .2s ease-out;
+    line-height: inherit;
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: inherit;
+    margin-top: 5px;
+    text-align: center;
+    line-height: 23px;
+    border-radius: 5px;
+    height: 30px;
+    width: 110px;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: IRANSansWeb,'Seoge UI',Tahoma, sans-serif;
+}
+
+.sign-up-button{
+    color: #ffffff;
+    background-color: #35b995;
+    margin-top: 5px;
+    margin-left: 5px; 
+    font-size: 12px;
+    text-align: center;
+    line-height: 23px;
+    border-radius: 5px;
+    height: 30px;
+    width: 110px;
+    padding: 0;
+    text-decoration: none;
+    letter-spacing: .5px;
+    transition: .2s ease-out;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-block;
+    border: none;
+    font-family: IRANSansWeb,'Seoge UI',Tahoma, sans-serif;
+}
+
+.search-box{
+    position: relative;
+    margin: auto;
+    float: right;
+    top: 9px;
+    width: 50%;
+    height: 45px;
+    margin-right: 3%;
+    border: 1px #e6e0e0 solid;
+    border-radius: 50px;
+    text-align: right;
+}
+.search-box i{
+    cursor: pointer;
+    color: #35b995;
+    padding: 5px;
+    padding-left: 10px;
+    border-radius: 100%;
+    margin-top: 4px;
+    font-weight: 100;
+    font-size: 25px;
+    margin-left: 0px;
+    float: left;
+}
+.search-box p{
+    font-size: 12px;
+    float: right;
+    direction: rtl;
+    margin-right: 20px;
+    margin-top: 13px;
+    color: gray;
+    font-family: IRANSansWeb,'Seoge UI',Tahoma, sans-serif;
+}
+.nav-menu{
+    height: 10px;
+    padding-right: 80px;
+    margin-top: 20px;
+    padding-top: 0px;
+    font-family: IRANSansWeb,'Seoge UI',Tahoma, sans-serif;
+    display: block;
+    padding-bottom: 20px;
+}
+.nav-menu ul{
+    margin-right: 140px;
+    padding-top: -80px;
+}
+.nav-menu ul li{
+    margin-top: -50px;
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+    font-family: IRANSansWeb,'Seoge UI',Tahoma, sans-serif;
+}
+.nav-menu ul li a{
+    display: inline-block;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+    font-family: IRANSansWeb,'Segoe UI',Tahoma, sans-serif;
+    transition: background-color 1s;
+}
+.Nav-head{
+    margin-bottom: -13px;
+    width: 100%;
+    display: inline-block;
+    background: #ffffff;
+    position: relative;
+    direction: ltr;
+}
+.logo{
+    width:100%;
+    float: right;
+    height: 100%;
+    padding: 3px 0 0 0;
+    margin: 0;
+    width: 180px;
+    position: relative;
+    top: 6px;
+    right: 1%;
+}
+.menu-list{
+    float: right;
+    margin-top: 5px;
+    font-family: IRANSansWeb,'Seoge UI',Tahoma, sans-serif;
+}
+@font-face{
+    font-family: 'IRANSansWeb-Medium';
+    src: url('IRANSansWeb-Medium.ttf')format('ttf');
+}
